@@ -1,0 +1,3 @@
+- 👋 Hi, I’m vijay parte
+- 👀 I’m interested in Full stack web development
+- 🌱 I’m currently working as java developer
